@@ -1,2 +1,2 @@
-# chart-for-tradingview
-chart for trading view
+# selfmarketing
+single page application
